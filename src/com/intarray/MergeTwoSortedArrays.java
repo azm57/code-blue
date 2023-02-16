@@ -4,7 +4,7 @@ public class MergeTwoSortedArrays {
 
 	public static void main(String[] args) {
 		int[] intArr1 = { 3, 7, 9, 12, 21 };
-		int[] intArr2 = { 6, 8, 15, 18, 27,30, 35, 38, 39, 48 };
+		int[] intArr2 = { 6, 8, 15, 18, 27,30, 35, 38, 39, 48, 50 };
 
 		int arr1Len = intArr1.length;
 		int arr2Len = intArr2.length;
